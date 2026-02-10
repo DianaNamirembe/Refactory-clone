@@ -1,0 +1,26 @@
+.partner-btn {
+  background-color: rgb(145, 30, 145);
+  padding: 15px;
+  border: none;
+  border-radius: 8px;
+}
+.courses-btn {
+  background-color: yellow;
+  padding: 15px;
+  border: none;
+  border-radius: 8px;
+}
+.techtalent-btn {
+  background-color: navy;
+  padding: 15px;
+  border: none;
+  border-radius: 8px;
+}
+.hero-section {
+  text-align: center;
+}
+.hero-section{background-image:https://refactory.academy/wp-content/uploads/2025/08/0G2A8223.jpg;}
+.hero-section{background-size: cover;}
+.hero-section{background-position: center; height: 100vh; display: flex;
+flex-direction: column; justify-content: center; text-align: center;}
+
