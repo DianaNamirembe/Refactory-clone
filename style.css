@@ -19,8 +19,23 @@
 .hero-section {
   text-align: center;
 }
-.hero-section{background-image:https://refactory.academy/wp-content/uploads/2025/08/0G2A8223.jpg;}
-.hero-section{background-size: cover;}
-.hero-section{background-position: center; height: 100vh; display: flex;
-flex-direction: column; justify-content: center; text-align: center;}
-
+.hero-section {
+  background-image: url(https://refactory.academy/wp-content/uploads/2025/08/0G2A8223.jpg);
+}
+.hero-section {
+  background-size: cover;
+}
+.hero-section {
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.container-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; padding: 50px 10%; max-width: 1200px; margin: auto;
+}
+.hero-image{width: 100%; height: auto;}
+.hero-text{ text-align: left;   padding: 10px; text-decoration: none; border-radius: 5px;}
